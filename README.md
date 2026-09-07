@@ -11,3 +11,10 @@
 One thing that I found interesting about Git is that it works in small codes and not many lines of code
 
 One useful command that I liked is *git status* because it show all the details of files on your workspace
+
+
+
+## 
+# What I learned??
+
+I am learning how Git and GitHub work together.
